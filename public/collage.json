@@ -1,0 +1,279 @@
+[
+    {
+        "collageName": "Dhaka Collage",
+        "image": "https://www.msprotidin.com/postimage/6095719ad188bGovt.%20Titumir%20College.PNG.webp",
+        "admissionDate": "7/10/2023",
+        "collegeRating":"4.5",
+       "events": [
+          {
+            "eventName": "Divide",
+            "eventImage": "https://media.istockphoto.com/id/1212776095/photo/smiling-young-male-hispanic-student-sitting-with-friends.webp?b=1&s=170667a&w=0&k=20&c=B9h1HIBNM2Fi9Dk6o78eQXmG7yLwdZvS2mrt56GiY8Q="
+          },
+          {
+            "eventName": "English club",
+            "eventImage": "https://cdn.risingbd.com/media/imgAll/2021March/en/Titumir-final-2103180422.jpg"
+          },
+          {
+            "eventName": "Blood Donate",
+            "eventImage": "https://daijiworld.ap-south-1.linodeobjects.com/iWeb/daijiworld/images3/arun_100821_blood1.JPG"
+          }
+        
+        ],
+        "researchHistory": [
+          "History 1",
+          "History 2",
+          "History 3"
+        ],
+        "sports": [
+          {
+            "sportsName": "Sport 1",
+            "sportsImage": "https://img.freepik.com/premium-photo/close-up-football-action-scene-with-competing-soccer-players-stadium_207634-5551.jpg?w=2000"
+          },
+          {
+            "sportsName": "Sport 2",
+            "sportsImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUHDXRQwxOvFqML7_LxsP5nU48XjgLCl3Ag&usqp=CAU"
+          },
+          {
+            "sportsName": "Sport 3",
+            "sportsImage": "https://www.si.com/.image/t_share/MTg1ODgyMTMxNzMyMzc1MjM1/sports_illustrated_2021_year_in_pictures_00007.jpg"
+          }
+          
+        ],
+        "researchWorks": [
+          "Work 1",
+          "Work 2",
+          "Work 3"
+        ]
+      },
+      {
+        "collageName": "Titumir Collage",
+        "image": "https://www.msprotidin.com/postimage/6095719ad188bGovt.%20Titumir%20College.PNG.webp",
+        "admissionDate": "7/10/2023",
+        "collegeRating":"4.5",
+       "events": [
+          {
+            "eventName": "Divide",
+            "eventImage": "https://media.istockphoto.com/id/1212776095/photo/smiling-young-male-hispanic-student-sitting-with-friends.webp?b=1&s=170667a&w=0&k=20&c=B9h1HIBNM2Fi9Dk6o78eQXmG7yLwdZvS2mrt56GiY8Q="
+          },
+          {
+            "eventName": "English club",
+            "eventImage": "https://cdn.risingbd.com/media/imgAll/2021March/en/Titumir-final-2103180422.jpg"
+          },
+          {
+            "eventName": "Blood Donate",
+            "eventImage": "https://daijiworld.ap-south-1.linodeobjects.com/iWeb/daijiworld/images3/arun_100821_blood1.JPG"
+          }
+        
+        ],
+        "researchHistory": [
+          "History 1",
+          "History 2",
+          "History 3"
+        ],
+        "sports": [
+          {
+            "sportsName": "Sport 1",
+            "sportsImage": "https://img.freepik.com/premium-photo/close-up-football-action-scene-with-competing-soccer-players-stadium_207634-5551.jpg?w=2000"
+          },
+          {
+            "sportsName": "Sport 2",
+            "sportsImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUHDXRQwxOvFqML7_LxsP5nU48XjgLCl3Ag&usqp=CAU"
+          },
+          {
+            "sportsName": "Sport 3",
+            "sportsImage": "https://www.si.com/.image/t_share/MTg1ODgyMTMxNzMyMzc1MjM1/sports_illustrated_2021_year_in_pictures_00007.jpg"
+          }
+          
+        ],
+        "researchWorks": [
+          "Work 1",
+          "Work 2",
+          "Work 3"
+        ]
+      },
+      {
+        "collageName": "Bangla Collage",
+        "image": "https://www.msprotidin.com/postimage/6095719ad188bGovt.%20Titumir%20College.PNG.webp",
+        "admissionDate": "7/10/2023",
+        "collegeRating":"4.5",
+       "events": [
+          {
+            "eventName": "Divide",
+            "eventImage": "https://media.istockphoto.com/id/1212776095/photo/smiling-young-male-hispanic-student-sitting-with-friends.webp?b=1&s=170667a&w=0&k=20&c=B9h1HIBNM2Fi9Dk6o78eQXmG7yLwdZvS2mrt56GiY8Q="
+          },
+          {
+            "eventName": "English club",
+            "eventImage": "https://cdn.risingbd.com/media/imgAll/2021March/en/Titumir-final-2103180422.jpg"
+          },
+          {
+            "eventName": "Blood Donate",
+            "eventImage": "https://daijiworld.ap-south-1.linodeobjects.com/iWeb/daijiworld/images3/arun_100821_blood1.JPG"
+          }
+        
+        ],
+        "researchHistory": [
+          "History 1",
+          "History 2",
+          "History 3"
+        ],
+        "sports": [
+          {
+            "sportsName": "Sport 1",
+            "sportsImage": "https://img.freepik.com/premium-photo/close-up-football-action-scene-with-competing-soccer-players-stadium_207634-5551.jpg?w=2000"
+          },
+          {
+            "sportsName": "Sport 2",
+            "sportsImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUHDXRQwxOvFqML7_LxsP5nU48XjgLCl3Ag&usqp=CAU"
+          },
+          {
+            "sportsName": "Sport 3",
+            "sportsImage": "https://www.si.com/.image/t_share/MTg1ODgyMTMxNzMyMzc1MjM1/sports_illustrated_2021_year_in_pictures_00007.jpg"
+          }
+          
+        ],
+        "researchWorks": [
+          "Work 1",
+          "Work 2",
+          "Work 3"
+        ]
+      },
+      {
+        "collageName": "Kavi Nazrul Collage",
+        "image": "https://www.msprotidin.com/postimage/6095719ad188bGovt.%20Titumir%20College.PNG.webp",
+        "admissionDate": "7/10/2023",
+        "collegeRating":"4.5",
+       "events": [
+          {
+            "eventName": "Divide",
+            "eventImage": "https://media.istockphoto.com/id/1212776095/photo/smiling-young-male-hispanic-student-sitting-with-friends.webp?b=1&s=170667a&w=0&k=20&c=B9h1HIBNM2Fi9Dk6o78eQXmG7yLwdZvS2mrt56GiY8Q="
+          },
+          {
+            "eventName": "English club",
+            "eventImage": "https://cdn.risingbd.com/media/imgAll/2021March/en/Titumir-final-2103180422.jpg"
+          },
+          {
+            "eventName": "Blood Donate",
+            "eventImage": "https://daijiworld.ap-south-1.linodeobjects.com/iWeb/daijiworld/images3/arun_100821_blood1.JPG"
+          }
+        
+        ],
+        "researchHistory": [
+          "History 1",
+          "History 2",
+          "History 3"
+        ],
+        "sports": [
+          {
+            "sportsName": "Sport 1",
+            "sportsImage": "https://img.freepik.com/premium-photo/close-up-football-action-scene-with-competing-soccer-players-stadium_207634-5551.jpg?w=2000"
+          },
+          {
+            "sportsName": "Sport 2",
+            "sportsImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUHDXRQwxOvFqML7_LxsP5nU48XjgLCl3Ag&usqp=CAU"
+          },
+          {
+            "sportsName": "Sport 3",
+            "sportsImage": "https://www.si.com/.image/t_share/MTg1ODgyMTMxNzMyMzc1MjM1/sports_illustrated_2021_year_in_pictures_00007.jpg"
+          }
+          
+        ],
+        "researchWorks": [
+          "Work 1",
+          "Work 2",
+          "Work 3"
+        ]
+      },
+      {
+        "collageName": "Eden Collage",
+        "image": "https://www.msprotidin.com/postimage/6095719ad188bGovt.%20Titumir%20College.PNG.webp",
+        "admissionDate": "7/10/2023",
+        "collegeRating":"4.5",
+       "events": [
+          {
+            "eventName": "Divide",
+            "eventImage": "https://media.istockphoto.com/id/1212776095/photo/smiling-young-male-hispanic-student-sitting-with-friends.webp?b=1&s=170667a&w=0&k=20&c=B9h1HIBNM2Fi9Dk6o78eQXmG7yLwdZvS2mrt56GiY8Q="
+          },
+          {
+            "eventName": "English club",
+            "eventImage": "https://cdn.risingbd.com/media/imgAll/2021March/en/Titumir-final-2103180422.jpg"
+          },
+          {
+            "eventName": "Blood Donate",
+            "eventImage": "https://daijiworld.ap-south-1.linodeobjects.com/iWeb/daijiworld/images3/arun_100821_blood1.JPG"
+          }
+        
+        ],
+        "researchHistory": [
+          "History 1",
+          "History 2",
+          "History 3"
+        ],
+        "sports": [
+          {
+            "sportsName": "Sport 1",
+            "sportsImage": "https://img.freepik.com/premium-photo/close-up-football-action-scene-with-competing-soccer-players-stadium_207634-5551.jpg?w=2000"
+          },
+          {
+            "sportsName": "Sport 2",
+            "sportsImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUHDXRQwxOvFqML7_LxsP5nU48XjgLCl3Ag&usqp=CAU"
+          },
+          {
+            "sportsName": "Sport 3",
+            "sportsImage": "https://www.si.com/.image/t_share/MTg1ODgyMTMxNzMyMzc1MjM1/sports_illustrated_2021_year_in_pictures_00007.jpg"
+          }
+          
+        ],
+        "researchWorks": [
+          "Work 1",
+          "Work 2",
+          "Work 3"
+        ]
+      },
+      {
+        "collageName": "Bodrunnesa Collage",
+        "image": "https://www.msprotidin.com/postimage/6095719ad188bGovt.%20Titumir%20College.PNG.webp",
+        "admissionDate": "7/10/2023",
+        "collegeRating":"4.5",
+        "events": [
+          {
+            "eventName": "Divide",
+            "eventImage": "https://media.istockphoto.com/id/1212776095/photo/smiling-young-male-hispanic-student-sitting-with-friends.webp?b=1&s=170667a&w=0&k=20&c=B9h1HIBNM2Fi9Dk6o78eQXmG7yLwdZvS2mrt56GiY8Q="
+          },
+          {
+            "eventName": "English club",
+            "eventImage": "https://cdn.risingbd.com/media/imgAll/2021March/en/Titumir-final-2103180422.jpg"
+          },
+          {
+            "eventName": "Blood Donate",
+            "eventImage": "https://daijiworld.ap-south-1.linodeobjects.com/iWeb/daijiworld/images3/arun_100821_blood1.JPG"
+          }
+        
+        ],
+        "researchHistory": [
+          "History 1",
+          "History 2",
+          "History 3"
+        ],
+        "sports": [
+          {
+            "sportsName": "Sport 1",
+            "sportsImage": "https://img.freepik.com/premium-photo/close-up-football-action-scene-with-competing-soccer-players-stadium_207634-5551.jpg?w=2000"
+          },
+          {
+            "sportsName": "Sport 2",
+            "sportsImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUHDXRQwxOvFqML7_LxsP5nU48XjgLCl3Ag&usqp=CAU"
+          },
+          {
+            "sportsName": "Sport 3",
+            "sportsImage": "https://www.si.com/.image/t_share/MTg1ODgyMTMxNzMyMzc1MjM1/sports_illustrated_2021_year_in_pictures_00007.jpg"
+          }
+          
+        ],
+        "researchWorks": [
+          "Work 1",
+          "Work 2",
+          "Work 3"
+        ]
+      }
+]
+  
