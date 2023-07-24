@@ -61,7 +61,7 @@ import PrivateRoute from "./PrivateRoute";
         },
         {
           path:'/myCollage/',
-          element:<MyCollage/>
+          element:<PrivateRoute><MyCollage/></PrivateRoute>
         },
         {
           path:'/feedback',
